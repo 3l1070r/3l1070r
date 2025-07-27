@@ -5,10 +5,6 @@ Building tools for fraud detection and exploring security technologies.
 ## 📚 **Previous Work**
 - [@sf27](https://github.com/sf27) - Archive of 12+ years of experimentation
 
-## 🚀 **Current Work**
-
-- [dataspot](https://github.com/frauddi/dataspot) - Library for finding data concentration patterns and fraud detection
-
 ## 🛡️ **Security & Systems**
 
 - **pfSense** - Network security and firewall management
