@@ -1,4 +1,4 @@
-# Creator of dataspot | Cybersecurity Enthusiast
+# Software Architecture | Building fraud detection solutions | Cybersecurity Enthusiast
 
 Building tools for fraud detection and exploring security technologies.
 
