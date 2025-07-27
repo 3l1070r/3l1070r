@@ -7,7 +7,7 @@ Building tools for fraud detection and exploring security technologies.
 
 ## 🚀 **Current Work**
 
-- **Creator** of [dataspot](https://github.com/frauddi/dataspot) - Library for finding data concentration patterns and fraud detection
+- [dataspot](https://github.com/frauddi/dataspot) - Library for finding data concentration patterns and fraud detection
 
 ## 🛡️ **Security & Systems**
 
