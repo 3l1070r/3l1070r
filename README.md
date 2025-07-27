@@ -3,7 +3,7 @@
 Building tools for fraud detection and exploring security technologies.
 
 ## 📚 **Previous Work**
-- [@sf27](https://github.com/sf27) - Archive of 12+ years of experimentation
+- [@sf27](https://github.com/sf27) - Archive of 12+ years of proof of concepts
 
 ## 🛡️ **Security & Systems**
 
